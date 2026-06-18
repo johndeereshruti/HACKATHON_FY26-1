@@ -17,5 +17,5 @@ arguments
 end
 
 %% Core logic
-result = b / a;
+result = a/b;
 end
