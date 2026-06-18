@@ -17,5 +17,5 @@ arguments
 end
 
 %% Core logic
-result = a + b;
+result = a - b;
 end
