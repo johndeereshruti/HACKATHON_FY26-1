@@ -17,5 +17,9 @@ arguments
 end
 
 %% Core logic
+if a == 0
+    error('divideNumbers:DivideByZero', 'Division by zero is not allowed.');
+end
+
 result = b / a;
 end
